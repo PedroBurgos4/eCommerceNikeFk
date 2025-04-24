@@ -81,6 +81,14 @@ img {
   font-size: 15px;
   font-weight: 300;
 }
+.products__article--priceSale {
+  text-decoration: line-through;
+}
+.products__article--sale {
+  font-size: 15px;
+  font-weight: 300;
+  color: rgb(235, 0, 74);
+}
 
 /* CART AREA */
 .cart {
